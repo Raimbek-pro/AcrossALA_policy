@@ -21,7 +21,7 @@ Cookies and Tracking Technologies
 I do not use cookies or any tracking technologies in our app.
 
 Children’s Privacy
-Across ALA is designed to be family-friendly and is suitable for users of all ages. I do not knowingly collect personal information from children .
+ I do not  collect personal information from children .
 
 Changes to This Privacy Policy
 I may update our privacy policy . Any changes will be communicated to you via https://www.instagram.com/raiymcf/.
